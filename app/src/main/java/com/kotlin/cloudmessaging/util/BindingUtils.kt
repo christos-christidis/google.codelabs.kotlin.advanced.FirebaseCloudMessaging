@@ -1,4 +1,4 @@
-package com.kotlin.firebasenotifications.util
+package com.kotlin.cloudmessaging.util
 
 import android.text.format.DateUtils
 import android.widget.TextView

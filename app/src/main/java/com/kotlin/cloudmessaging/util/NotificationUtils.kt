@@ -1,4 +1,4 @@
-package com.kotlin.firebasenotifications.util
+package com.kotlin.cloudmessaging.util
 
 import android.app.NotificationManager
 import android.app.PendingIntent
@@ -6,9 +6,9 @@ import android.content.Context
 import android.content.Intent
 import android.graphics.BitmapFactory
 import androidx.core.app.NotificationCompat
-import com.kotlin.firebasenotifications.MainActivity
-import com.kotlin.firebasenotifications.R
-import com.kotlin.firebasenotifications.receiver.SnoozeReceiver
+import com.kotlin.cloudmessaging.MainActivity
+import com.kotlin.cloudmessaging.R
+import com.kotlin.cloudmessaging.receiver.SnoozeReceiver
 
 private const val NOTIFICATION_ID = 0
 private const val REQUEST_CODE = 0

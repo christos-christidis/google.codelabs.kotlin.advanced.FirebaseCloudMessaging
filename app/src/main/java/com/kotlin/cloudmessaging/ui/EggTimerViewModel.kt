@@ -1,4 +1,4 @@
-package com.kotlin.firebasenotifications.ui
+package com.kotlin.cloudmessaging.ui
 
 import android.app.*
 import android.content.Context
@@ -8,10 +8,10 @@ import android.os.SystemClock
 import androidx.core.app.AlarmManagerCompat
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.*
-import com.kotlin.firebasenotifications.BuildConfig
-import com.kotlin.firebasenotifications.receiver.AlarmReceiver
-import com.kotlin.firebasenotifications.R
-import com.kotlin.firebasenotifications.util.cancelNotifications
+import com.kotlin.cloudmessaging.BuildConfig
+import com.kotlin.cloudmessaging.receiver.AlarmReceiver
+import com.kotlin.cloudmessaging.R
+import com.kotlin.cloudmessaging.util.cancelNotifications
 import kotlinx.coroutines.*
 
 class EggTimerViewModel(private val app: Application) : AndroidViewModel(app) {

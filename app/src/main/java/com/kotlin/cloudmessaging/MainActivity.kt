@@ -1,8 +1,8 @@
-package com.kotlin.firebasenotifications
+package com.kotlin.cloudmessaging
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.kotlin.firebasenotifications.ui.EggTimerFragment
+import com.kotlin.cloudmessaging.ui.EggTimerFragment
 
 class MainActivity : AppCompatActivity() {
 

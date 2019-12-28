@@ -1,12 +1,12 @@
-package com.kotlin.firebasenotifications.receiver
+package com.kotlin.cloudmessaging.receiver
 
 import android.app.NotificationManager
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
 import androidx.core.content.ContextCompat
-import com.kotlin.firebasenotifications.R
-import com.kotlin.firebasenotifications.util.sendNotification
+import com.kotlin.cloudmessaging.R
+import com.kotlin.cloudmessaging.util.sendNotification
 
 class AlarmReceiver : BroadcastReceiver() {
 

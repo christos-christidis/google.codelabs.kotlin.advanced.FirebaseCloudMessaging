@@ -1,4 +1,4 @@
-package com.kotlin.firebasenotifications.receiver
+package com.kotlin.cloudmessaging.receiver
 
 import android.app.AlarmManager
 import android.app.NotificationManager

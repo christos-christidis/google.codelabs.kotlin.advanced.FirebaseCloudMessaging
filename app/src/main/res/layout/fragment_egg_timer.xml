@@ -7,13 +7,13 @@
 
         <variable
             name="viewModel"
-            type="com.kotlin.firebasenotifications.ui.EggTimerViewModel" />
+            type="com.kotlin.cloudmessaging.ui.EggTimerViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.kotlin.firebasenotifications.ui.EggTimerFragment">
+        tools:context=".ui.EggTimerFragment">
 
         <TextView
             android:id="@+id/textView"

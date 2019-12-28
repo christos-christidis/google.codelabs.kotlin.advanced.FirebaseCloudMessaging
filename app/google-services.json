@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74871846555",
+    "firebase_url": "https://eggtimer-notifications.firebaseio.com",
+    "project_id": "eggtimer-notifications",
+    "storage_bucket": "eggtimer-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74871846555:android:087d36d89f9bdab320b83e",
+        "android_client_info": {
+          "package_name": "com.kotlin.cloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74871846555-c8rfo7fhjomhl39jm8q0b3ejs1d6md77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kotlin.cloudmessaging",
+            "certificate_hash": "efa4cae6d00356383f8aa7823774c051076d59e4"
+          }
+        },
+        {
+          "client_id": "74871846555-nq5vmlakoeftp5on7hmnhtn5cighkn1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb52VQNF7svj7abbCiSi4sgsw6TxvAfCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74871846555-nq5vmlakoeftp5on7hmnhtn5cighkn1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

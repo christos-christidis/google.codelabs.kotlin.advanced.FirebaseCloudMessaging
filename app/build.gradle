@@ -5,7 +5,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 29
     defaultConfig {
-        applicationId "com.kotlin.firebasenotifications"
+        applicationId "com.kotlin.cloudmessaging"
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
@@ -45,3 +45,5 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:20.1.0'
     implementation 'android.arch.work:work-runtime:1.0.1'
 }
+
+apply plugin: 'com.google.gms.google-services'
